@@ -1,15 +1,16 @@
 class HelloWorld
 {
 
-	void displayate()
+	static void displayate()
 	{
 		system.out.println("display today's date:--");
 	}
 	public static void main(String[] args)
 	{
 		system.out.println("Hello World.... Welcome to git");
-		HelloWorld obj=new HelloWorld();
-		obj.displayate();
+
+   		displayDate();
+
 	}
 }
 
