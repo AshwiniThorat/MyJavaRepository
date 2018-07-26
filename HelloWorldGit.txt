@@ -1,9 +1,9 @@
 class HelloWorld
 {
 
-void mymethod()
+void displayate()
 {
-sysout("display todays date");
+sysout("display today's date:--");
 }
 public static void main(String[] args)
 {
