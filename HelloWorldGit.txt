@@ -3,11 +3,11 @@ class HelloWorld
 
 	static void displayate()
 	{
-		system.out.println("display today's date:--");
+		system.out.println("display today's date:--"+new_date());
 	}
 	public static void main(String[] args)
 	{
-		system.out.println("Hello World.... Welcome to git");
+		system.out.println("Hello World...!!! Welcome to git...!!!");
 
    		displayDate();
 
